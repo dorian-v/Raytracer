@@ -6,10 +6,9 @@ Image generation by tracing the path of light as pixels in an image plane and si
 
 ## Dependencies
 
-```
 LibLapin
+
 SFML
-```
 
 ## Features
 
@@ -42,3 +41,8 @@ make
 ./raytracer path_to_pic.ini
 
 ```
+
+## Example
+
+![Example1](./ressources/examples/3.png)
+![Example2](./ressources/examples/4.png)
