@@ -14,14 +14,15 @@ SFML
 
 Objects: cones, cylinders, spheres, planes, hyperboloids
 
-Customizable size/colour/position/rotation
+Customizable size/colour/textures/position/rotation
+
 
 Properties: brilliance, reflection, Perlin noise
 
 Anti-aliasing
 
 
-## Commands:
+## Commands
 
 Arrows,A,E to rotate camera
 
@@ -31,8 +32,11 @@ L to activate/deactivate rendering move
 
 ## Usage
 
-Install dependencies
+Step1: Install dependencies
 
+
+
+Step2:
 ```
 cd Raytracer
 
@@ -42,7 +46,7 @@ make
 
 ```
 
-## Example
+## Examples
 
 ![Example1](./ressources/examples/3.png)
 ![Example2](./ressources/examples/4.png)
